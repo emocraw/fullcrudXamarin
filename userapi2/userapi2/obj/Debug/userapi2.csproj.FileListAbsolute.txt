@@ -1,0 +1,14 @@
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.csproj.AssemblyReference.cache
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.csproj.SuggestedBindingRedirects.cache
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.Form1.resources
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.Properties.Resources.resources
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.csproj.GenerateResource.cache
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.csproj.CoreCompileInputs.cache
+D:\Program c#\userapi2\userapi2\bin\Debug\userapi2.exe.config
+D:\Program c#\userapi2\userapi2\bin\Debug\userapi2.exe
+D:\Program c#\userapi2\userapi2\bin\Debug\userapi2.pdb
+D:\Program c#\userapi2\userapi2\bin\Debug\Newtonsoft.Json.dll
+D:\Program c#\userapi2\userapi2\bin\Debug\Newtonsoft.Json.xml
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.csproj.CopyComplete
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.exe
+D:\Program c#\userapi2\userapi2\obj\Debug\userapi2.pdb
